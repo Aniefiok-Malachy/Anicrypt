@@ -35,7 +35,7 @@ export default function Navbar() {
             <a
               key={l.href}
               href={l.href}
-              className="text-sm font-medium text-slate-700 hover:text-fuchsia-800"
+              className="text-lg font-medium text-slate-700 hover:text-fuchsia-800"
             >
               {l.label}
             </a>
@@ -66,7 +66,7 @@ export default function Navbar() {
                 key={l.href}
                 href={l.href}
                 onClick={() => setIsOpen(false)}
-                className="text-sm font-medium text-slate-700 hover:text-fuchsia-800"
+                className="text-lg font-medium text-slate-700 hover:text-fuchsia-800"
               >
                 {l.label}
               </a>
