@@ -192,6 +192,8 @@ export default function Contact() {
                 </p>
                 <a
                   href={site.ctas.cv}
+                  target="_blank"
+                  
                   className="mt-3 inline-flex rounded-xl bg-fuchsia-800 px-4 py-3 text-sm font-semibold text-white transition-all duration-200 hover:bg-fuchsia-900 hover:shadow-[0_0_20px_rgba(168,85,247,0.7)]"
                 >
                   Download CV

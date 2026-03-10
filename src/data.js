@@ -12,7 +12,7 @@ export const site = {
     ],
     ctas: {
       projects: "#projects",
-      cv: "/cv.pdf", // put your file in /public/cv.pdf
+      cv: "/resume.pdf", // put your file in /public/cv.pdf
     },
     socials: [
       { label: "LinkedIn", href: "https://www.linkedin.com/in/malachyaniefiok" },
