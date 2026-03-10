@@ -18,7 +18,7 @@ export const site = {
       { label: "LinkedIn", href: "https://www.linkedin.com/in/malachyaniefiok" },
       {label: "Discord", href: "https://discord.com/users/1133972037803704470"},
       { label: "Telegram", href: "https://t.me/Anicrypt_4" },
-      { label: "X", href: "https://https://x.com/AniCrypt62" },
+      { label: "X", href: "https://x.com/AniCrypt62" },
       {label:"Facebook",href:"https://web.facebook.com/Aniicrypt"}
     ],
     stats:[
