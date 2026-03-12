@@ -22,9 +22,9 @@ export const site = {
       {label:"Facebook",href:"https://web.facebook.com/Aniicrypt"}
     ],
     stats:[
-        { value: "50+", label: "Communities Managed", icon: "trophy" },
+        { value: "10+", label: "Communities Managed", icon: "trophy" },
         { value: "100K+", label: "Members Engaged", icon: "users" },
-        { value: "5+", label: "Years Experience", icon: "project" },
+        { value: "4+", label: "Years Experience", icon: "project" },
         { value: "10+", label: "Work Hours", icon: "clock" }
       ],
     about: {
