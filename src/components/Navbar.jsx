@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Container from "./Container.jsx";
-import Anicrypt from "../assets/Anicrypt.jpg";
+import Anicrypt from "../assets/Ani.jpg";
 import { HiMenu, HiX } from "react-icons/hi";
 
 const links = [
