@@ -1,6 +1,6 @@
 import Container from "./Container.jsx";
 import { site } from "../data.js";
-import Aniphoto from "../assets/Aniphoto.jpg";
+import Aniphoto from "../assets/Ani.jpg";
 import { FaTrophy, FaUsers, FaProjectDiagram, FaClock } from "react-icons/fa";
 
 const icons = {

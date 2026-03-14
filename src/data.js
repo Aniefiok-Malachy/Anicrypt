@@ -43,7 +43,7 @@ export const site = {
       resumeHref: "/resume.pdf",
       education: {
         degree: "BSc in Mathematics Science",
-        school: "Akwa Ibom State University, Nigeria",
+        school: "Akwa Ibom State University",
         graduation: "Graduated: 2023",
         focus:
         "Focused on solving complex problems through critical thinking, mathematical modeling, abstract algebra, and analytical reasoning, while developing strong logical and quantitative skills applicable to technology and data-driven environments."
