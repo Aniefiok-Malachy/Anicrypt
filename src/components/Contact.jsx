@@ -161,9 +161,9 @@ export default function Contact() {
               </div>
 
               <div className="rounded-xl border border-slate-300 bg-white p-4">
-                <p className="text-sm font-semibold text-slate-500">Location</p>
+                <p className="text-sm font-semibold text-slate-500">Time Zone</p>
                 <p className="mt-1 font-semibold text-slate-900">
-                  {c.location}
+                  {c.time}
                 </p>
               </div>
 
