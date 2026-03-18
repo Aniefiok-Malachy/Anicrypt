@@ -17,7 +17,7 @@ export const site = {
     socials: [
       { label: "LinkedIn", href: "https://www.linkedin.com/in/malachyaniefiok" },
       {label: "Discord", href: "https://discord.com/users/1133972037803704470"},
-      { label: "Telegram", href: "https://t.me/Anicrypt_4" },
+      { label: "Telegram", href: "https://t.me/Anicrypt_6" },
       { label: "X", href: "https://x.com/AniCrypt62" },
       {label:"Facebook",href:"https://web.facebook.com/Aniicrypt"}
     ],
@@ -187,7 +187,7 @@ export const site = {
     ],
     contact: {
       email: "malaniefiok@gmail.com",
-      location: "Nigeria",
+      time: "UTC+1",
     },
     footer: "© 2026 Anicrypt Malachy. All Rights Reserved.",
   };
