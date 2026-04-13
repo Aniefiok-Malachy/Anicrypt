@@ -12,7 +12,8 @@ export const site = {
     ],
     ctas: {
       projects: "#projects",
-      cv: "/resume.pdf", // put your file in /public/cv.pdf
+      cv: "/resume.pdf",
+     // put your file in /public/cv.pdf
     },
     socials: [
       { label: "LinkedIn", href: "https://www.linkedin.com/in/malachyaniefiok" },
@@ -89,9 +90,22 @@ export const site = {
     //       "Helped many users create accounts.",
     //     ],
     //   },
-    {
+    
+      {
+        "title": "Contributor and Moderator - Nicegram",
+        "href": "https://t.me/nicegramchat",
+        "image": "/Nicegram.jpg",
+        "bullets": [
+          "Community moderation and support.",
+          "Engaging members and guiding discussions.",
+          "Sharing updates and assisting users."
+        ]
+      }
+    ],
+    pastprojects:[
+      {
         "title": "Contributor and Admin - KPFree",
-        "href": "https://t.me/kf_kpfree",
+        "href": "/KPfree1.pdf",
         "image": "/KPfree.jpg",
         "bullets": [
           "Community administration and moderation.",
@@ -100,9 +114,40 @@ export const site = {
         ]
       },
       {
-        "title": "Contributor and Moderator - Nicegram",
-        "href": "https://t.me/nicegramchat",
-        "image": "/Nicegram.jpg",
+        "title": "Community-Admin - YeildFi",
+        "href": "/yeildfi.pdf",
+        "image": "/yeild.jpg",
+        "bullets": [
+          "Built valuable connections that strengthened ecosystem presence.",
+          "Worked alongside external teams to create mutually beneficial initiatives.",
+          "Played a role in driving awareness and improving user participation."
+        ]
+      },
+      {
+        "title": "Community Admin - Blockbridge",
+        "href": "/Blockbridge.pdf",
+        "image": "/block.jpg",
+        "bullets": [
+          "Managed and guided online community interactions.",
+          "Planned and executed user engagement initiatives.",
+          "Contributed to partnerships and activities that expanded audience reach."
+        ]
+      },
+      {
+        "title": "Business Developer - Niza",
+        "href": "https://niza.io/en",
+        "image": "/niza.jpg",
+        "bullets": [
+          "Identified and developed strategic partnerships to expand project reach.",
+          "Coordinated collaborations with other Web3 communities and projects.",
+          "Contributed to growth strategies that increased community engagement and visibility."
+        ]
+      },
+
+      {
+        "title": "Contributor and Moderator - BidPaw",
+        "href": "https://t.me/bidpaw_chat",
+        "image": "/bidpaw.jpg",
         "bullets": [
           "Community moderation and support.",
           "Engaging members and guiding discussions.",
@@ -119,28 +164,6 @@ export const site = {
           "Contributed to growth strategies that increased community engagement and visibility."
         ]
       },
-    ],
-    pastprojects:[
-      {
-        "title": "Business Developer - Niza",
-        "href": "https://niza.io/en",
-        "image": "/niza.jpg",
-        "bullets": [
-          "Identified and developed strategic partnerships to expand project reach.",
-          "Coordinated collaborations with other Web3 communities and projects.",
-          "Contributed to growth strategies that increased community engagement and visibility."
-        ]
-      },
-      {
-        "title": "Contributor and Moderator - BidPaw",
-        "href": "https://t.me/bidpaw_chat",
-        "image": "/bidpaw.jpg",
-        "bullets": [
-          "Community moderation and support.",
-          "Engaging members and guiding discussions.",
-          "Sharing updates and assisting users."
-        ]
-      }
     ],
     
     skills: {

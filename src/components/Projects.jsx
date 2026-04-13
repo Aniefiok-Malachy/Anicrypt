@@ -10,7 +10,7 @@ export default function Projects() {
       <Container className="py-14 sm:py-20">
         <div className="mb-10 text-center">
           <h1 className="text-4xl md:text-6xl font-bold">
-            My <span className="text-fuchsia-800">Projects</span>
+            Current<span className="text-fuchsia-800">Project(s)</span>
           </h1>
           <p className="mt-3 text-slate-600 text-sm md:text-base">
             Explore my recent work and achievements
