@@ -16,7 +16,7 @@ export const site = {
      // put your file in /public/cv.pdf
     },
     socials: [
-      { label: "LinkedIn", href: "https://www.linkedin.com/in/malachyaniefiok" },
+      { label: "LinkedIn", href: "https://www.linkedin.com/in/anicrypt/" },
       {label: "Discord", href: "https://discord.com/users/1133972037803704470"},
       { label: "Telegram", href: "https://t.me/Anicrypt_6" },
       { label: "X", href: "https://x.com/AniCrypt62" },
