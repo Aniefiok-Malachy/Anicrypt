@@ -29,6 +29,7 @@ export default function Pastprojects() {
                   alt={p.title}
                   className="w-full h-full rounded-2xl object-cover"
                 />
+                
               </div>
 
               <div className="flex items-start justify-between gap-4">
